@@ -1,0 +1,24 @@
+.left-label {
+    text-align: left;
+    width: 90px; /* Adjust the width as needed */
+    display: inline-block;
+    margin-right:500px; /* Adjust margin as needed */
+  }
+
+  .custom-cancel-btn{
+    width: 70%;
+
+  }
+
+
+.custom-submit-btn {
+  width: 80%; /* Adjust the width as needed */
+}
+
+.custom-submit-btn {
+  margin-right:0.5px;
+  margin-left:80px;
+   /* Adjust the margin-right as needed */
+}
+
+ 
