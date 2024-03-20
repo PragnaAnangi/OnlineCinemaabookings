@@ -62,6 +62,8 @@ function App() {
             <Route path='/moviee' element={<MovieScreen/>}/>
             <Route path='/abcd' element={<TheatreScreen/>}/> */}
 
+              <Route path='/booking' element={<Payment/>}/>
+
           
            
           </Routes>
